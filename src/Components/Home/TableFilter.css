@@ -1,0 +1,44 @@
+.TableFilter-card {
+  background-color: white;
+  margin: 20px;
+  padding: 26px;
+  display: flex;
+  font-family: Roboto, sans-serif;
+  align-items: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.input-container {
+  display: flex;
+  width: 15%;
+  border-bottom: 2px solid black;
+}
+.icon {
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+/* Style the input fields */
+.input-field {
+  width: 100%;
+  border: none;
+  color: black;
+  padding-left: 6px;
+  padding-bottom: 1px;
+  outline: none;
+}
+.date-TableFilter {
+  border: none;
+  margin-right: 10px;
+  border-bottom: 2px solid black;
+}
+.input-field:focus {
+  border: none;
+}
+.data-timeContainer {
+  margin-left: 5vw;
+
+  display: flex;
+  flex-direction: row;
+}

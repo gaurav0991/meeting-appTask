@@ -1,0 +1,37 @@
+.SideBar {
+  background: #1e5f74;
+  color: white;
+  width: 15vw;
+  padding: 15px;
+  height: 100vh;
+}
+.selected {
+  background: #133b5c;
+}
+.SideBar-top {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 2vw;
+}
+.SideBar-roll {
+  padding-left: 1vw;
+}
+.menu-image {
+  height: 2.2vh;
+  width: 2vw;
+}
+.SideBar-item {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.SideBar-item-img {
+  width: 1.8vw;
+  height: 2.2vh;
+}
+.SideBar-item-title {
+  padding-left: 12px;
+  font-size: 1.2vw;
+  font-weight: 400;
+}

@@ -1,0 +1,33 @@
+.Table-main {
+  background-color: white;
+  margin: 20px;
+  padding: 26px;
+  font-family: Roboto, sans-serif;
+  align-items: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.heading {
+  font-size: 1.1vw;
+  color: #1e5f74;
+  text-align: left;
+  font-weight: 300;
+}
+.inp {
+  border: none;
+  border-bottom: 1px solid black;
+}
+td {
+  font-size: 1vw;
+
+  padding: 1vw;
+}
+table {
+  width: 100vw;
+}
+.button-add {
+  background-color: #1e5f74;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 7px;
+}
